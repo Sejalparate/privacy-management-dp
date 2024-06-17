@@ -54,7 +54,6 @@ Run the script with the following command:
 ![Example Output](https://github.com/Sejalparate/privacy-management-dp/blob/main/Task%202%20-%20Color%20based%20inpainting/Color-based-inpainting.jpg)
 
 
-
 ## Video Inpainting using Object Detection
 
 This task builds on the previous one by incorporating object detection to enhance privacy management. The script captures the background for the first 45 seconds, after which it detects specific objects (in this case, persons) in the video feed. Detected objects are highlighted with bounding boxes and replaced with the corresponding background, effectively hiding them.
