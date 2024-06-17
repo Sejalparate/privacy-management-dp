@@ -51,6 +51,7 @@ Run the script with the following command:
 ```sh
     python Task 2 - Color based inpainting/Color_based_inpainting.py
 ```
+![Example Output](https://github.com/Sejalparate/privacy-management-dp/blob/main/Task%202%20-%20Color%20based%20inpainting/Color-based-inpainting.jpg)
 
 
 
