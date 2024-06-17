@@ -62,6 +62,14 @@ Run the script with the following command:
 ```sh
     python Task 7 - User Authentication/main.py
 ```
+#### Inpainting using object detection
+
+![Example Output](https://github.com/Sejalparate/privacy-management-dp/blob/main/Task%203%20-%20Video%20Inpainting%20Object%20Detection/Inpainting_using_object_detection.jpg)
+
+
+#### Inpainting using segmentation
+
+![Example Output](https://github.com/Sejalparate/privacy-management-dp/blob/main/Task%204%20-%20Video%20Inpainting%20Instance%20Segmentation/Inpainting_using_segmentation.jpg)
 
 
 
