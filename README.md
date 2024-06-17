@@ -37,7 +37,7 @@ This task demonstrates color detection using OpenCV. The script captures video f
 
 Run the script with the following command:
 ```sh
-    python Task 1-Masked Video/Masked_video.py
+    python Task 1 - Masked Video/Masked_video.py
 ```
 ![Example Output](https://github.com/Sejalparate/privacy-management-dp/blob/main/Task%201%20-%20Masked%20Video/Masked_Video.jpg)
 
@@ -49,7 +49,7 @@ This task demonstrates color-based inpainting using OpenCV. The script captures 
 
 Run the script with the following command:
 ```sh
-    python Task 2-Color based inpainting/Color_based_inpainting.py
+    python Task 2 - Color based inpainting/Color_based_inpainting.py
 ```
 
 
@@ -58,6 +58,10 @@ Run the script with the following command:
 
 This task builds on the previous one by incorporating object detection to enhance privacy management. The script captures the background for the first 45 seconds, after which it detects specific objects (in this case, persons) in the video feed. Detected objects are highlighted with bounding boxes and replaced with the corresponding background, effectively hiding them.
 
+Run the script with the following command:
+```sh
+    python Task 7 - User Authentication/main.py
+```
 
 
 
